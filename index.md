@@ -1,5 +1,7 @@
-# Yi Jiahe
-A year 3 Aerospace Engineering student taking a specialisation in Mechanical Engineering at the Nanyang Technological University, Singapore. Doing research under the CN Yang Scholars Programme, with an interest in software development.
+# Who Am I?
+I am a year 3 Aerospace Engineering student taking a specialisation in Mechanical Engineering at the Nanyang Technological University, Singapore. Doing research under the CN Yang Scholars Programme, with an interest in software development.
+
+# Projects
 
 ## [HoverFish](HoverFish.md)
 An award winning remote-controlled balloon drone designed and built for PS9888 Making and Tinkering, a special term module held at NTU.
