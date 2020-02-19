@@ -12,3 +12,6 @@ On the voting day, the source code was uploaded to github and hosted as a heroku
 
 > The electronic voting system has improved processes significantly and allowed us to do things we would not have been able to do with our original voting system. The automatic vote tallying has greatly sped up the election process. The encryption also ensures we are able to meet the same demands of accountabilty and anonnimity as the traditional system.
 - Sowmya Srinivasan Iyer, Vice-President 10EC
+
+
+### [Back to Home](index.md)
