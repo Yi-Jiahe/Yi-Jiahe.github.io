@@ -6,7 +6,7 @@ When I first started learning Kotlin, I picked up most of the basic skills from 
 
 The app makes use of intents to use the in-built camera app to take a photo, then uses the Google Places API to provide a location tag to the image, allowing location and time data to be stored. Each entry is stored locally on the user's device, and collectively they are used to populate the RecyclerView used to display the entries. The result can be seen in the screenshot below.
 
-![Meal Diary Screenshot](/images/Meal-Diary-SS.jpeg =250x)
+![Meal Diary Screenshot](/images/Meal-Diary-SS.jpeg)
 
 If you are interested in trying the app in its latest stable version, please download the apk [here](/downloadable/Meal Diary v0.1.0.apk). Please note that this version is not meant for commercial use and some features might be unavaliable should the number of API requests exceed my key's quota.
 
