@@ -1,3 +1,7 @@
+<head>
+  <title>Yi Jiahe</title>
+</head>
+
 # Who Am I?
 I am a year 3 Aerospace Engineering student taking a specialisation in Mechanical Engineering at the Nanyang Technological University, Singapore. Doing research under the CN Yang Scholars Programme, with an interest in software development.
 
