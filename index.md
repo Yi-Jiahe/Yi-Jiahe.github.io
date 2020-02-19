@@ -23,6 +23,3 @@ An experiment conducted in the low speed wind tunnel at NTU to investigate how t
 
 ## [Subjective Testing Of Parametrically-decoded First-Order Ambisonics In Cinematically-reproduced Virtual Reality](CY2001.md)
 Research attachment at the Digital Signal Laboratory at NTU evaluating audio decoding techniques for virtual reality using subjective testing methods.
-
-
-## [Electric Guitar Mod](EGuitarMod.md)
