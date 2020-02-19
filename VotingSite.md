@@ -11,7 +11,7 @@ On the voting day, the source code was uploaded to GitHub and hosted as a Heroku
 ## Testimonials
 
 > The electronic voting system has improved the efficiency of our voting process significantly. It not only allowed us to tabulate the results within minutes, but also allowed voters who were overseas to participate in the elections via the easy to access portal. The encryption also ensures we are able to meet the same demands of accountability and anonymity as the traditional system. Most importantly for us, we wanted to reduce the amount of paper waste produced from printing over 200 traditional voting pamphlets. The system has already been handed down to the next batch of scholars in the committee and works amazingly.
-- Sowmya Srinivasan Iyer, Vice-President 10EC
+- Sowmya Srinivasan Iyer, Vice-President 11EC
 
 
 ### [Back to Home](index.md)
