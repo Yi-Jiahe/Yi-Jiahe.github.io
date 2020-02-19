@@ -11,3 +11,6 @@ The final product consisted of a form fitting containter, with a small fan unit 
 ![HUD off](/images/HUD-off.png) | ![HUD on](/images/HUD-on.png)
 
 While the project is now over, the HUD is admitedly incomplete. The initial plans involved placing a small heating element at the air intake at the top, further expediting drying process, as well as humidity and temperature sensors which could be combined with a micro-controller to adjust the drying rates or turn the device off when its job was finished to save power. If given the opportunity, I would like to add these features to our product.
+
+
+### [Back to Home](index.md)
