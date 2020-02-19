@@ -4,6 +4,11 @@ While this was not techincally my first foray into app development for I had cre
 
 When I first started learning Kotlin, I picked up most of the basic skills from the tutorial by Google by building and experimenting with their introductory apps, incorporating the knowledge I gained from them into my own app. However, as my app grew more complex with more interations and features, I had to cast my net wider and scour the internet or possible solutions to the difficulties I began to encounter. After much trial and error, I had finally managed to include the features I had desired to include.
 
-![Meal Diary Screenshot](/images/Meal-Diary-SS.jpeg)
+The app makes use of intents to use the in-built camera app to take a photo, then uses the Google Places API to provide a location tag to the image, allowing location and time data to be stored. Each entry is stored locally on the user's device, and collectively they are used to populate the RecyclerView used to display the entries. The result can be seen in the screenshot below.
 
-[Try the app](/downlodable/Meal Diary v0.1.0.apk)
+![Meal Diary Screenshot](/images/Meal-Diary-SS.jpeg =250x)
+
+
+If you are interested in trying the app in its latest stable version, please download the apk [here](/downlodable/Meal Diary v0.1.0.apk). Please note that this version is not meant for commercial use and some features might be unavaliable should the number of API requests exceed my key's quota.
+
+During a recent NTU module, CY0006 Enterprise, Innovation and Leadership, my group and I are looking into the feasibilty of such an app based on its desirablity to actual users. In the process we have gathered postive feedback and learnt more about the revenue and dependency costs of running an app. We are also looking into utilising the Google Vision API to provide more details on the pictures.
