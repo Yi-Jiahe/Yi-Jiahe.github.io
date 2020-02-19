@@ -4,6 +4,9 @@
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 </head> -->
 
+---
+title: Aerospace Engineering Student
+
 # Who Am I?
 I am a year 3 Aerospace Engineering student taking a specialisation in Mechanical Engineering at the Nanyang Technological University, Singapore. Doing research under the CN Yang Scholars Programme, with an interest in software development.
 
