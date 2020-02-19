@@ -11,3 +11,6 @@ The app makes use of intents to use the in-built camera app to take a photo, the
 If you are interested in trying the app in its latest stable version, please download the apk [here](https://github.com/Yi-Jiahe/Yi-Jiahe.github.io/releases/tag/MealDiaryv0.1.0). Please note that this version is not meant for commercial use and some features might be unavaliable should the number of API requests be exceeded.
 
 During a recent NTU module, CY0006 Enterprise, Innovation and Leadership, my group and I are looking into the feasibilty of such an app based on its desirablity to actual users. In the process we have gathered postive feedback and learnt more about the revenue and dependency costs of running an app. We are also looking into utilising the Google Vision API to provide more details on the pictures.
+
+
+### [Back to Home](index.md)
