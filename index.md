@@ -14,7 +14,7 @@ A simple device to address the issue of wet portable umbrellas designed and buil
 
 
 ## [Meal Diary](MealDiary.md)
-
+An Andriod app for users to keep track of their eating habits by means of a picture diary.
 
 
 ## [Parameterization Study of The Efficiency of a Piezoelectric Flutter Based Harvester](CY1500.md)
