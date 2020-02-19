@@ -17,7 +17,7 @@ A simple device to address the issue of wet portable umbrellas designed and buil
 An Andriod app for users to keep track of their eating habits by means of a picture diary.
 
 
-## [Parameterization Study of The Efficiency of a Piezoelectric Flutter Based Harvester](CY1500.md)
+## [Parameterization Study of The Efficiency of a Piezoelectric Flutter Based Harvester](CY1400.md)
 An experiment conducted in the low speed wind tunnel at NTU to investigate how the aerodynamic phenomenon of flutter can be used to generate electricity using a piezoelectric harvester.
 
 
