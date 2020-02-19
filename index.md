@@ -1,8 +1,8 @@
-<head>
+<!-- <head>
   <title>Yi Jiahe</title>
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-</head>
+</head> -->
 
 # Who Am I?
 I am a year 3 Aerospace Engineering student taking a specialisation in Mechanical Engineering at the Nanyang Technological University, Singapore. Doing research under the CN Yang Scholars Programme, with an interest in software development.
