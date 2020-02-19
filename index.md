@@ -1,5 +1,5 @@
 # Yi Jiahe
-A year 3 Aerospace Engineering student taking a specialisation in Mechanical Engineering at the Nanyang Technological University, Singapore. Doing research under the CN Yang Scholars Progamme, with an interest in software development.
+A year 3 Aerospace Engineering student taking a specialisation in Mechanical Engineering at the Nanyang Technological University, Singapore. Doing research under the CN Yang Scholars Programme, with an interest in software development.
 
 ## [HoverFish](HoverFish.md)
 An award winning remote-controlled balloon drone designed and built for PS9888 Making and Tinkering, a special term module held at NTU.
@@ -14,10 +14,10 @@ A simple device to address the issue of wet portable umbrellas designed and buil
 
 
 ## [Meal Diary](MealDiary.md)
-An Andriod app for users to keep track of their eating habits by means of a picture diary.
+An Android app for users to keep track of their eating habits by means of a picture diary.
 
 
-## [Parameterization Study of The Efficiency of a Piezoelectric Flutter Based Harvester](CY1400.md)
+## [Parameterization Study of The Efficiency of a Piezoelectric Flutter Based Harvester](CY1500.md)
 An experiment conducted in the low speed wind tunnel at NTU to investigate how the aerodynamic phenomenon of flutter can be used to generate electricity using a piezoelectric harvester.
 
 
