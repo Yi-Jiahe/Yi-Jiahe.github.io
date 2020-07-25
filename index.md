@@ -19,6 +19,10 @@ A online voting portal commissioned by the 10th Executive Committee of the CN Ya
 A simple device to address the issue of wet portable umbrellas designed and built for the Engineering, Innovation and Design module at NTU.
 
 
+## [Drone Simulator](DroneSimulator.md)
+A project started in Python then continued in Unity to get a better appreciation for concepts I studied in University such as dynamics and control theory.
+
+
 ## [Meal Diary](MealDiary.md)
 An Android app for users to keep track of their eating habits by means of a picture diary.
 
