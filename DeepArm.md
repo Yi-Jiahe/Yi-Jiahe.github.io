@@ -1,0 +1,8 @@
+# Inverse Kinematics solver using deep learning
+
+While exploring inverse kinematics for the control of robotic arms, I came across an article on MATLAB about using their adaptive neuro-fuzzy inference system (ANFIS) app to model a 2-joint robotic arm in a 2D space. The approach seemed like it could overcome the exponential increase in complexity with more complex systems, so I decided to give it a try using Tensorflow to train a model for the control of a 2-joint robotic arm in 3D space.
+
+The data was generated in python using a forward kinematics solution to find all possible states of the arm for discrete intervals of the actuation of each joint, chosen to ensure a managable amount of data. The data was then processed by shuffling it and splitting the input, a position in catesian coordinates from the output, the required actuation from each joint. The first model I trained consisted of hidden dense layers with relu activation and a mean squared error loss function just to see how it would perform. The model was able to provide actuator commands for points within its reach with decent accuracy. However, it requested actuator commands greater than the limits present in the data, representing impossible demands, and was unable to produce meaningful output for objects out of its reach.
+
+
+### [Back to Home](index.md)

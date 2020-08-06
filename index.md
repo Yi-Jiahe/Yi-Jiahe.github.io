@@ -10,17 +10,22 @@ An award winning remote-controlled balloon drone designed and built for PS9888 M
 ## [Motion Based Multi Object Tracker](SPOTIT.md)
 Internship with Temasek Laboratories @ NUS, with the aim of developing a real time 3D drone tracking system using computer vision to detect and track multiple moving objects in a scene.
 
+<!--
+## [Inverse Kinematics solver using deep learning](DeepArm.md)
+Using deep learning solution for inverse kinematic problems to avoid the complexity of analytical and numerical methods for 3 dimensional mechanisms.
+-->
 
 ## [CN Yang Executive Committee Voting Site](VotingSite.md)
 A online voting portal commissioned by the 10th Executive Committee of the CN Yang Scholars Club.
 
 
+## [Drone Simulator](DroneSimulator.md)
+A project started in Python then continued in Unity to get a better appreciation for concepts I studied in University such as dynamics and control theory.
+
+
 ## [Handy Umbrella Dryer](HUD.md)
 A simple device to address the issue of wet portable umbrellas designed and built for the Engineering, Innovation and Design module at NTU.
 
-
-## [Drone Simulator](DroneSimulator.md)
-A project started in Python then continued in Unity to get a better appreciation for concepts I studied in University such as dynamics and control theory.
 
 
 ## [Meal Diary](MealDiary.md)
