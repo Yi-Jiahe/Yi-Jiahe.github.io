@@ -10,10 +10,10 @@ An award winning remote-controlled balloon drone designed and built for PS9888 M
 ## [Motion Based Multi Object Tracker](SPOTIT.md)
 Internship with Temasek Laboratories @ NUS, with the aim of developing a real time 3D drone tracking system using computer vision to detect and track multiple moving objects in a scene.
 
-<!--
+
 ## [Inverse Kinematics solver using deep learning](DeepArm.md)
 Using deep learning solution for inverse kinematic problems to avoid the complexity of analytical and numerical methods for 3 dimensional mechanisms.
--->
+
 
 ## [CN Yang Executive Committee Voting Site](VotingSite.md)
 A online voting portal commissioned by the 10th Executive Committee of the CN Yang Scholars Club.
