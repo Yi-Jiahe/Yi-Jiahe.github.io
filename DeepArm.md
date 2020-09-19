@@ -6,4 +6,6 @@ The data was generated in python using a forward kinematics solution to find all
 
 To solve some of these problems, I implemented a custom loss function to reduce the eucliean distance of the position calcuated from the angles produced by the model using forward kinematics to the desired input position. This allowed the model to better evaluate its solution by minimising the offset from the desired position rather than just comparing it to known solutions. In addition, I generated a more balanced dataset using a range of points in and around the reach of the arm. This reduced the model overfitting to positions with more solutions, as well as being unable to estimate a solution for points it could not reach, allowing the model to accurately generate angles for points it could reach and extend in the right direction for points out of reach.
 
+A simple webapp made with Threejs utilizing the trained model can be found at https://deep-arm.netlify.app/.
+
 ### [Back to Home](index.md)
