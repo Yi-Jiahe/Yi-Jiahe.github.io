@@ -1,14 +1,22 @@
 # Who Am I?
-I am a year 4 Aerospace Engineering student taking a specialisation in Mechanical Engineering at the Nanyang Technological University, Singapore. Doing research under the CN Yang Scholars Programme, with an interest in software development.
+I am a graduating year 4 Aerospace Engineering student with a specialisation in Mechanical Engineering at the Nanyang Technological University, Singapore. I have had many research opportunities, largely thanks to the CN Yang Scholars Programme. I am also interested in software development.
 
 # Projects
+
+## [Motion Based Multi Object Tracker](SPOTIT.md)
+Internship with Temasek Laboratories @ NUS, with the aim of developing a real time 3D drone tracking system using computer vision to detect and track multiple moving objects in a scene.
+
+
+## [Unique Flight Controller for Multirotor drones](FYP.md)
+My Final Year Project for my Aerospace Engineering degree in which I designed an implemented unique flight controller on a UAV whose parts I designed and 3D printed.
+
 
 ## [HoverFish](HoverFish.md)
 An award winning remote-controlled balloon drone designed and built for PS9888 Making and Tinkering, a special term module held at NTU.
 
 
-## [Motion Based Multi Object Tracker](SPOTIT.md)
-Internship with Temasek Laboratories @ NUS, with the aim of developing a real time 3D drone tracking system using computer vision to detect and track multiple moving objects in a scene.
+## [CS50 Intro to Artificial Intelligence Certification from Harvard](CS50ai.md)
+A series of projects under the Introduction to Artificial Intelligence online course offered by Harvard as part of their CS50 programme, which culminated in a degree.
 
 
 ## [Inverse Kinematics solver using deep learning](DeepArm.md)
@@ -25,7 +33,6 @@ A project started in Python then continued in Unity to get a better appreciation
 
 ## [Handy Umbrella Dryer](HUD.md)
 A simple device to address the issue of wet portable umbrellas designed and built for the Engineering, Innovation and Design module at NTU.
-
 
 
 ## [Meal Diary](MealDiary.md)
