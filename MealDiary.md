@@ -1,3 +1,5 @@
+# Meal Diary
+
 Meal Diary is an app meant to help users keep track of their diet in order to assist them in eating healthier. It seeks to do so by simplifying the process of recording one's meals, encouraging awareness over counting calories by making creating a new entry as easy as simply taking a picture of your meal.
 
 While this was not technically my first foray into app development for I had created a simple web app a number of years earlier, it was my first time writing an app specifically for android in Kotlin. The reason I had chosen to create the app was because I felt that the introduction of Kotlin and Android Studio made the app development process more accessible than before, and I thought that it was my turn to give it a shot.
@@ -6,7 +8,7 @@ When I first started learning Kotlin, I picked up most of the basic skills from 
 
 The app makes use of intents to use the in-built camera app to take a photo, then uses the Google Places API to provide a location tag to the image, allowing location and time data to be stored. Each entry is stored locally on the user's device, and collectively they are used to populate the RecyclerView used to display the entries. The result can be seen in the screenshot below.
 
-<img src="/images/meal-diary/Meal-Diary-SS.jpeg"
+<img src="/images/meal_diary/Meal-Diary-SS.jpeg"
 	width="250"/>
 
 If you are interested in trying this version of the app, please download the apk [here](https://github.com/Yi-Jiahe/Yi-Jiahe.github.io/releases/tag/MealDiaryv0.1.0). Please note that this version is not meant for commercial use and some features might be unavailable should the number of API requests be exceeded.

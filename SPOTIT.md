@@ -20,6 +20,6 @@ I then worked on implementing the algorithm in real-time, which involved perform
 
 After finishing up the on-site testing, I used the remainder of my time to apply the concepts I had learnt to a simulation to examine if I could apply the same principles to free agents instead of the binocular setup. Both were aware of their position in space and at least one other drone, alongside the camera parameters and detections of both. The simulation can be seen below, which worked rather well.
 
-[!Simulation](/images/eye_sky/multi_agent_triangulation_simulation.png)
+![Simulation](/images/eye_sky/multi_agent_triangulation_simulation.png)
 
 ### [Back to Home](index.md)
