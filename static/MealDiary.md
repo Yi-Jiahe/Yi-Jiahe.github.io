@@ -21,4 +21,4 @@ The project also brought back my interest in the project, and I decided to try o
 
 I also created a Google Play developer account to upload it to the Play store so I could share it. If you're interested, you can join the internal testing [here](https://play.google.com/apps/internaltest/4700343135347905465) for a chance to download the app!
 
-### [Back to Home](/index.md)
+### [Back to Home](/)

@@ -16,4 +16,4 @@ By completing these projects and a number of quizzes, I earned a certificate sho
 <img src="/assets/images/CS50AI_certificate.png"
 	width="750"/>
 
-### [Back to Home](/index.md)
+### [Back to Home](/)

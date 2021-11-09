@@ -12,4 +12,4 @@ Visualization options included the time-amplitude plot of the transformed plot a
 
 The main learning points I obtained from this project was an insight into digital signal processing and some practical experience with the numerical operations that can be performed on digital signals, as well as how to handle real time buffer data.
 
-### [Back to Home](/index.md)
+### [Back to Home](/)

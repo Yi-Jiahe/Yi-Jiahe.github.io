@@ -8,4 +8,4 @@ To solve some of these problems, I implemented a custom loss function to reduce 
 
 A simple webapp made with Threejs utilizing the trained model can be found at https://deep-arm.netlify.app/.
 
-### [Back to Home](/index.md)
+### [Back to Home](/)

@@ -22,4 +22,4 @@ After finishing up the on-site testing, I used the remainder of my time to apply
 
 ![Simulation](/assets/images/eye_sky/multi_agent_triangulation_simulation.png)
 
-### [Back to Home](/index.md)
+### [Back to Home](/)

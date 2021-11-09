@@ -14,4 +14,4 @@ On the voting day, the source code was uploaded to GitHub and hosted as a Heroku
 - Sowmya Srinivasan Iyer, Vice-President 11EC
 
 
-### [Back to Home](/index.md)
+### [Back to Home](/)

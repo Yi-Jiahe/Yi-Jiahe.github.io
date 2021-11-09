@@ -24,4 +24,4 @@ The propulsive and buoyancy mechanisms were the systems I am proudest of as they
 More details on the project timeline, development as well as videos of the HoverFish in action can be found at our project blog at [https://blogs.ntu.edu.sg/ps9888-2018-hoverfish/](https://blogs.ntu.edu.sg/ps9888-2018-hoverfish/).
 
 
-### [Back to Home](/index.md)
+### [Back to Home](/)

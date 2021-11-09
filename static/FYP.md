@@ -31,4 +31,4 @@ The prototype was tested on a 1-DoF and 3-DoF rig to test the controller and tun
 Overall the project allowed me to showcase a number of my skills I picked up from university such as dynamics, control theory and Simulink, CAD and 3D printing, as well as skills I learnt on my own time, such as mobile development and software development in general.
 
 
-### [Back to Home](/index.md)
+### [Back to Home](/)
