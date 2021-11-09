@@ -13,7 +13,7 @@ The course featured a number of projects covering topics such as:
 
 By completing these projects and a number of quizzes, I earned a certificate showing my completion of the course.
 
-<img src="/images/CS50AI_certificate.png"
+<img src="/assets/images/CS50AI_certificate.png"
 	width="750"/>
 
-### [Back to Home](index.md)
+### [Back to Home](/index.md)
