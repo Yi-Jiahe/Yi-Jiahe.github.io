@@ -4,7 +4,7 @@ With the increased interest in VR and computer vision leading to a boom in popul
 
 ![Integration](\assets\images\Virtual Face\Integration.png)
 
-Virtual Face is a combination of a Computer Vision face and body tracking solution using Google's MediaPipe library, and a renderer which makes use of the tracking data, built in Unity.
+[Virtual Face](https://github.com/Yi-Jiahe/virtual-face) is a combination of a Computer Vision face and body tracking solution using Google's MediaPipe library, and a [renderer](https://github.com/Yi-Jiahe/cv-controller) which makes use of the tracking data, built in Unity.
 
 I made use of the facial landmarks to determine the position and pose of the head, abstracting the required parameters for the renderer. The tracking program also starts a socket server such that applications can connect to it to request for the tracking data.
 

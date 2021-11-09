@@ -1,6 +1,6 @@
 # Sound Site
 
-![SoundSite](/assets/images/soundsite/sound-site.png)
+![SoundSite](\assets\images\soundsite\sound-site.png)
 
 [Sound Site](https://github.com/Yi-Jiahe/sound-site-react) is a single page React app built with React Flow. React was chosen to give the app interactivity, allowing users to "touch sound", while React Flow was chosen as it was feature rich package, perfect for visualizing and controlling the Audio Graph.
 
