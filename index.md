@@ -5,16 +5,16 @@ I do anything from webdev to building drones, so please take a look at what I've
 
 # Projects
 
-## [Motion Based Multi Object Tracker](SPOTIT.md)
-Internship with Temasek Laboratories @ NUS, with the aim of developing a real time 3D drone tracking system using computer vision to detect and track multiple moving objects in a scene.
-
-
 ## [Unique Flight Controller for Multirotor drones](FYP.md)
 My Final Year Project for my Aerospace Engineering degree in which I designed an implemented unique flight controller on a UAV whose parts I designed and 3D printed.
 
 
 ## [HoverFish](HoverFish.md)
 An award winning remote-controlled balloon drone designed and built for PS9888 Making and Tinkering, a special term module held at NTU.
+
+
+## [Motion Based Multi Object Tracker](SPOTIT.md)
+Internship with Temasek Laboratories @ NUS, with the aim of developing a real time 3D drone tracking system using computer vision to detect and track multiple moving objects in a scene.
 
 
 ## [Sound Site](SoundSite.md)
@@ -25,12 +25,12 @@ A React App built with React Flow allowing users to see and touch sound to creat
 A series of projects under the Introduction to Artificial Intelligence online course offered by Harvard as part of their CS50 programme, which culminated in a degree.
 
 
-## [Inverse Kinematics solver using deep learning](DeepArm.md)
-Using deep learning solution for inverse kinematic problems to avoid the complexity of analytical and numerical methods for 3 dimensional mechanisms.
-
-
 ## [Virutal Face](VirtualFace.md)
 A face and pose tracking solution with a companion renderer for immersive control of virtual avatars.
+
+
+## [Inverse Kinematics solver using deep learning](DeepArm.md)
+Using deep learning solution for inverse kinematic problems to avoid the complexity of analytical and numerical methods for 3 dimensional mechanisms.
 
 
 ## [GW2 Market Analysis](GW2MarketAnalysis.md)
