@@ -29,6 +29,10 @@ A series of projects under the Introduction to Artificial Intelligence online co
 Using deep learning solution for inverse kinematic problems to avoid the complexity of analytical and numerical methods for 3 dimensional mechanisms.
 
 
+## [Virutal Face](static\VirtualFace.md)
+A face and pose tracking solution with a companion renderer for immersive control of virtual avatars.
+
+
 ## [CN Yang Executive Committee Voting Site](static/VotingSite.md)
 A online voting portal commissioned by the 10th Executive Committee of the CN Yang Scholars Club.
 
