@@ -17,6 +17,10 @@ My Final Year Project for my Aerospace Engineering degree in which I designed an
 An award winning remote-controlled balloon drone designed and built for PS9888 Making and Tinkering, a special term module held at NTU.
 
 
+## [Sound Site](static/SoundSite.md)
+A React App built with React Flow allowing users to see and touch sound to create their own sounds.
+
+
 ## [CS50 Intro to Artificial Intelligence Certification from Harvard](static/CS50ai.md)
 A series of projects under the Introduction to Artificial Intelligence online course offered by Harvard as part of their CS50 programme, which culminated in a degree.
 
