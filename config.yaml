@@ -2,7 +2,7 @@ baseURL: http://jiahe.dev/
 
 languageCode: en-us
 title: "My Technical portfolio"
-theme: "toha"
+theme: "toha-jiahe"
 
 
 # Manage languages
