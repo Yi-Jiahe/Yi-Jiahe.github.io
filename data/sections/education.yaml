@@ -1,0 +1,84 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: B.Eng in Aerospace Engineering w/ Specialization in Mechanical Engineering
+  icon: fa-graduation-cap
+  timeframe: 2017-2021
+  institution:
+    name: Nanyang Technological University
+    url: "#"
+  grade: #(optional)
+    scale: CGPA
+    achieved: 4.90
+    outOf: 5
+  # takenCourses: #(optional)
+  #   # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+  #   showGrades: true
+  #   courses:
+  #   - name: Data Structures and Algorithm
+  #     achieved: 3.75
+  #     outOf: 4
+  #   - name: Network Security
+  #     achieved: 3.80
+  #     outOf: 4
+  #   - name: Operating System
+  #     achieved: 3.5
+  #     outOf: 4
+  #   - name: Artificial Intelligent
+  #     achieved: 3.75
+  #     outOf: 4
+  publications: #(optional)
+  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    url: "#"
+  - title: Fusce eu augue ut odio porttitor pulvinar.
+    url: "#"
+  extracurricularActivities: #(optional)
+  - Crescent Sound Crew
+  - Crescent Carrom
+- name: GCE 'A' Levels
+  icon: fa-university
+  timeframe: 2013-2014
+  institution:
+    name: Raffles Junior College
+    url: "#"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: true
+    courses:
+    - name: H3 Semiconductor Physics
+      achieved: Distinction
+      # outOf: 4
+    - name: H2 Physics
+      achieved: A
+      # outOf: A
+    - name: H2 Chemistry
+      achieved: A
+      # outOf: 4
+    - name: H2 Math
+      achieved: A
+      # outOf: A
+    - name: H2 Economics
+      achieved: A
+      # outOf: A
+  extracurricularActivities: #(optional)
+  - Chinese Orchestra
+- name: Secondary School Certificate
+  icon: fa-school
+  timeframe: 2009-2012
+  institution:
+    name: Raffles Institution
+  extracurricularActivities: #(optional)
+  - Chinese Orchestra
+  # grade: #(optional)
+  #   scale: GPA
+  #   achieved: 4.5
+  #   outOf: 5
