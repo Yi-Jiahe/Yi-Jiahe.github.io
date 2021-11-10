@@ -1,0 +1,26 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Go Development
+  logo: "/images/sections/skills/go.png"
+  summary: "Using as the main language for professional development."
+  url: "https://golang.org/"
+
+- name: Cloud Computing
+  logo: "/images/sections/skills/cloud.png"
+  summary: "Deployed applications on AWS Lightsail and EC2, and made use of Route 53 for DNS routing."
+
+- name: Python Development
+  # logo:
+  summary: "I use Python for its wide range of packages, which allows me to quickly get started with new ideas such as making use 
+  of Machine Learning, Computer Vision, and building Wep Apps"

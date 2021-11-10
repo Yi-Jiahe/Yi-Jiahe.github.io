@@ -1,0 +1,16 @@
+# some information about you
+name: "Yi Jiahe"
+# nickname: "John"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+# image: "images/author/john.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "yi.jiahe00@gmail.com"
+  # phone: "+0123456789"
+
+# some summary about what you do
+summary:
+  - I am a Developer
+  - I am an Engineer
+  - I love to work with interesting projects

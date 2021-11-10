@@ -1,0 +1,42 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Shopee
+    url: "https://shopee.sg/"
+    location: Singapore
+    # company overview
+    overview: Shopee Pte Ltd is a Singaporean multinational technology company which focuses mainly on e-commerce.
+  positions:
+  - designation: Automation Engineer
+    start: July 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Build and maintain the testing envionment, making use of CI/CD tools like Jenkins.
+    - Design, develop tools to aid the QA effort, such as a server hosted auto-triaging endpoint to diagnose and notify stakeholders.
+    - Implement test case automation with Go's testing suite and tools such as Cypress.
+
+# - company:
+#     name: PreExample Co.
+#     url: "https://www.preexample.com"
+#     location: Nowhere
+#     overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+#   positions:
+#   - designation: Software Engineer
+#     start: March 2016
+#     end: May 2017
+#     responsibilities:
+#     - Write lots of example codes.
+#     - Read lots of examples.
+#     - See lots of example videos.
