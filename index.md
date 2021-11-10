@@ -1,7 +1,5 @@
 # Who Am I?
-I am a software engineer with a Aerospace Engineering degree in Mechanical Engineering from NTU.
-
-I do anything from webdev to building drones, so please take a look at what I've done.
+I am a software engineer with a Degree in Aerospace Engineering with a Specialization in Mechanical Engineering from NTU. I enjoy projects ranging from webdev to building drones.
 
 # Projects
 
