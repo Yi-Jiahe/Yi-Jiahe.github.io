@@ -2,7 +2,7 @@
 section:
   name: Education
   id: education
-  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  template: sections/education.html
   enable: true
   weight: 5
   showOnNavbar: true
@@ -53,22 +53,18 @@ degrees:
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: true
+    hideScale: true
     courses:
     - name: H3 Semiconductor Physics
       achieved: Distinction
-      # outOf: 4
     - name: H2 Physics
       achieved: A
-      # outOf: A
     - name: H2 Chemistry
       achieved: A
-      # outOf: 4
     - name: H2 Math
       achieved: A
-      # outOf: A
     - name: H2 Economics
       achieved: A
-      # outOf: A
   extracurricularActivities: #(optional)
   - Chinese Orchestra
 - name: Secondary School Certificate
