@@ -18,7 +18,9 @@ designation: Software Engineer
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with a degree in Aerospace Engineering. I enjoy working on anything from webdev to drone building and I love to work on projects to learn more about technology and support my hobbies.'
+summary: "I am a passionate software engineer with a degree in Aerospace Engineering. I enjoy working on anything from webdev to
+ drone building and I love to work on projects to learn more about technology and support my hobbies. I would love to work on an 
+ exciting technology that can also bring value to someone."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -27,13 +29,25 @@ socialLinks:
   icon: "fab fa-github"
   url: "https://www.github.com/Yi-Jiahe"
 
-# # your soft skills
-# # give the percentage between 50 to 100 with 5 intervals.
-# # currently supported colors: blue, yellow, pink, green, sky, orange
-# softSkills:
-# - name: Leadership
-#   percentage: 85
-#   color: blue
-# - name: Team Work
-#   percentage: 90
-#   color: yellow
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Self-Driven
+  percentage: 85
+  color: blue
+- name: Problem Solving
+  percentage: 95
+  color: yellow
+- name: Adaptability
+  percentage: 85
+  color: sky
+- name: Creativity
+  percentage: 90
+  color: green
+- name: Communication
+  percentage: 80
+  color: pink
+- name: Fast Learner
+  percentage: 85
+  color: orange

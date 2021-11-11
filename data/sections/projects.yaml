@@ -21,6 +21,8 @@ buttons:
   filter: "computer-vision"
 - name: Machine Learning
   filter: "machine-learning"
+- name: Mobile Development
+  filter: "mobile-development"
 - name: Academic
   filter: "academic"
 
@@ -33,7 +35,7 @@ projects:
   url: "/projects/fyp/"
   # repo: https://github.com/tensorflow/tensorflow
   summary: Designed and implemented a novel flight controller using Arduino Nanos.
-  tags: ["hardware", "academic"]
+  tags: ["hardware", "academic", "mobile-development"]
 
 - name: Hoverfish
   # logo: /images/sections/projects/tensorflow.png
@@ -47,8 +49,8 @@ projects:
   # logo: /images/sections/projects/toha.png
   # role: Owner
   timeline: "May 2020 - July 2020"
-  repo: https://github.com/Yi-Jiahe/eye_sky
   url: "/projects/spotit/"
+  repo: https://github.com/Yi-Jiahe/eye_sky
   summary: A computer vision solution for tracking drones at a distance commissioned by CAAS, funded by DSO.
   tags: ["computer-vision", "academic"]
 
@@ -56,7 +58,47 @@ projects:
   # logo: /images/sections/projects/toha.png
   # role: Owner
   timeline: "July 2021 - November 2021"
-  repo: https://github.com/Yi-Jiahe/soundsite
   url: "/projects/soundsite/"
+  repo: https://github.com/Yi-Jiahe/soundsite
   summary: A React Single Page Application showcasing React Flow and the Web Audio API.
+  tags: ["webdev"]
+
+- name: Inverse Kinematic Solver using Deep Learning
+  timeline: "August 2020 - June 2021"
+  url: "/projects/deeparm/"
+  repo: https://github.com/Yi-Jiahe/deep-arm
+  summary: An inverse kinematic solver trained with Tensorflow in Google Colabs deployed on a webapp powered by three.js.
+  tags: ["machine-learning", "webdev"]
+
+- name: Virtual Face
+  timeline: "November 2021 - November 2021"
+  url: "/projects/virtualface/"
+  repo: https://github.com/Yi-Jiahe/virtual-face
+  summary: A facial tracking program powered by MediaPipe which encodes control data for other applications.
+  tags: ["computer-vision"]
+
+- name: GW2 Market Analysis
+  timeline: "July 2021 - November 2021"
+  url: "/projects/bltcanalysis/"
+  repo: https://github.com/Yi-Jiahe/gw2-market-analysis
+  summary: A Java server-hosted market analysis tool which scrapes the GW2 API to collate time-series market data and presents it using Plotly.js.
+  tags: ["webdev"]
+
+- name: Meal Diary
+  timeline: May 2019 - August 2020
+  url: "/projects/mealdiary/"
+  repo: https://github.com/Yi-Jiahe/meal_diary
+  summary: A mobile application for helping you keep track of your diet built with Flutter and tested on the Google Play Store.
+  tags: ["mobile-development"]
+
+- name: Handy Umbrella Dryer
+  timeline: January 2018 - May 2018
+  url: "/projects/handyumbrelladryer/"
+  summary: A compact umbrella dryer designed to quickly dry off used umbrellas while keeping your bag and floors dry.
+  tags: ["hardware"]
+
+- name: CNYSP Voting Site
+  timeline: January 2018 - January 2018
+  url: "/projects/votingsite/"
+  summary: An online voting site commisioned by the 11th Executive Counsel to allow overseas scholars to cast their votes.
   tags: ["webdev"]
