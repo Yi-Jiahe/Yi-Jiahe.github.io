@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+    <meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+
+
+<link rel="stylesheet" href="/css/bootstrap.min.css"/>
+<link rel="stylesheet" href="/css/layouts/main.css"/>
+<link rel="stylesheet" href="/css/navigators/navbar.css"/>
+<link rel="stylesheet" href="/css/plyr.css"/>
+<link rel="stylesheet" href="/css/flag-icon.min.css"/>
+
+
+<link href="https://fonts.googleapis.com/css2?family=Muli:wght@300;400;500;600" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" />
+
+
+
+
+<meta property="og:title" content="" />
+<meta property="og:description" content="HoverFish HoverFish, see it in action here!, was a buoyancy based remote controlled drone powered by a Raspberry Pi Zero W&#43;. It was a helium balloon propelled by a distinctive tail, making it move like a fish in the air, hence the name.
+In the summer of my first year at NTU, I enrolled in PS9888 Making and Tinkering, a special term module meant to provide students with the opportunity to solve open-ended real life problems." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://jiahe.dev/projects/hoverfish/" /><meta property="article:section" content="projects" />
+
+
+
+
+
+    
+    
+<meta name="description" content="" />
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/atom-one-dark.min.css"
+/>
+
+<link rel="stylesheet" href="/css/projects/single.css"/>
+
+<link rel="stylesheet" href="/css/style.css"/>
+
+
+
+    
+    
+  </head>
+
+  <body>
+    <div class="container-fluid bg-dimmed wrapper">
+      
+      
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-xl top-navbar final-navbar shadow">
+  <div class="container">
+      <button class="navbar-toggler navbar-light" id="sidebar-toggler" type="button" onclick="toggleSidebar()">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <a class="navbar-brand" href="/">
+      My Technical portfolio</a>
+    <button class="navbar-toggler navbar-light" id="toc-toggler" type="button" onclick="toggleTOC()">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse lang-selector" id="top-nav-items">
+      <ul class="navbar-nav ml-auto">
+      
+      </ul>
+    </div>
+  </div>
+  
+  
+  
+</nav>
+
+
+
+
+      
+      
+<section class="content-section" id="content-section">
+  <div class="content">
+    <div class="container p-0 read-area">
+      
+      <div class="page-content">
+        <div class="title">
+          <h1></h1>
+        </div>
+        
+        <div class="post-content" id="post-content">
+          <h1 id="hoverfish">HoverFish</h1>
+<p>HoverFish, see it in action <a href="https://www.youtube.com/watch?v=eAWvxgsTUTA&amp;t=54s&amp;ab_channel=JonathanKenny">here!</a>, was a buoyancy based remote controlled drone powered by a Raspberry Pi Zero W+. It was a helium balloon propelled by a distinctive tail, making it <a href="https://www.youtube.com/watch?v=Iow5wQyQOc4&amp;ab_channel=JonathanKenny">move like a fish in the air</a>, hence the name.</p>
+<p>In the summer of my first year at NTU, I enrolled in PS9888 Making and Tinkering, a special term module meant to provide students with the opportunity to solve open-ended real life problems. The module aims to allow students to pick up hands-on expertise in building something which put the knowledge they learnt from their disciplines to practical use.</p>
+<p>Having just completed our first year at NTU, the amount of knowledge we had picked up in our respective disciplines may not have been much, but nevertheless we sought to build something ambitious. After much deliberation, we choose to build a balloon drone to explore another approach to flight, as opposed to the now ubiquitous quadcopters.</p>
+<p><img src="images/3rd-prototype-design-1440fnt.jpeg" alt="Hoverfish Sizing"></p>
+<p>We began with a rough sizing of the drone as well as looking into the mobility of such a contraption by reverse engineering similar toys we discovered on the internet. To ensure our product&rsquo;s uniqueness, we decided to modernize the concept, adding in a video feed to the drone as well as the ability to control it over local Wi-Fi networks.</p>
+<p><img src="images/mockup-155khfm-768x1364.jpeg" alt="Components"></p>
+<p>The technical aspects I worked on in this project were</p>
+<ul>
+<li>configuring the raspberry Pi zero controller we used for our project to be accessible through the local Wi-Fi network,</li>
+<li>writing the python scripts used to communicate and actuate the servos on board the HoverFish,</li>
+<li>wiring the various electronic components together,</li>
+<li>designing the propulsive and buoyancy mechanisms,</li>
+<li>and testing the drone.</li>
+</ul>
+<p>Configuring the Raspberry Pi to connect to the local Wi-Fi network was the greatest challenge I faced in the project as setting up the Raspbian OS remotely, setting up the network options and getting past the security protocols on the school&rsquo;s Wi-Fi involved performing a number of steps I still do not quite understand to this day. Nevertheless, with perseverance I was able to get the Raspberry Pi to be remotely accessible from any device connected to the same Wi-Fi network as it.</p>
+<p>The scripts used to communicate with the HoverFish was split into two parts, one to send video feed from the HoverFish to the user and one for the user to send commands to the Hoverfish.</p>
+<p><img src="images/UI.png" alt="UI"></p>
+<p>The first was a python script which would host a local page with the video feed from the Raspberry Pi camera. Fortunately, the base code to do so was available from the internet, giving me somewhere to start from. Using HTML and JavaScript, I added an overlay to the video feed, which allowed for a touch input system coupled with a backup keyboard input to send commands back to the HoverFish. The input from the user would send HTTPS requests to the Hoverfish which would then be received and translated to servo commands to control the two servo motors on-board the HoverFish. To allow the HoverFish to simultaneously send and receive HTTPS requests and control the servos, I made use of threads.</p>
+<p>The propulsive and buoyancy mechanisms were the systems I am proudest of as they make use of mechanical principles to reduce the weight of the mechanisms, reduce the force required from the servo motors, overcoming two major constraints to our design while delivering the desired performance. The buoyancy mechanism made use of a concentrated load, namely the power supply, located away from the main body to shift the cg of the HoverFish, allowing it to tilt up and down. Combined with the thrust located at the back, this allowed the HoverFish to both climb and sink with a single degree of freedom for the propulsive system. The propulsive system was designed from biomimicry, taking inspiration from how a fish swims, hence the name HoverFish. By using a crescent shaped tail, we were able to reduce the drag on the tail, reducing the force required from the tail servo.</p>
+<p>More details on the project timeline, development as well as videos of the HoverFish in action can be found at our project blog at <a href="https://blogs.ntu.edu.sg/ps9888-2018-hoverfish/">https://blogs.ntu.edu.sg/ps9888-2018-hoverfish/</a>.</p>
+
+        </div>
+
+      
+      <hr />
+        
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row next-prev-navigator">
+  
+  
+</div>
+
+      <hr />
+
+      </div>
+    </div>
+  </div>
+  
+  <a id="scroll-to-top" class="btn"><i class="fas fa-chevron-circle-up"></i></a>
+  
+</section>
+
+    </div>
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+  
+  
+
+  
+  
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+    
+  
+  
+
+  
+  
+  
+
+  <footer class="container-fluid text-center align-content-center footer pb-2">
+    <div class="container pt-5">
+      <div class="row text-left">
+        
+        <div class="col-md-4 col-sm-12">
+          <h5>Navigation</h5>
+          
+          <ul>
+              
+                
+                
+                  
+                
+                <li class="nav-item">
+                  <a class="smooth-scroll" href="http://jiahe.dev/#about">About</a>
+                </li>
+              
+              
+                
+                
+                  
+                
+                <li class="nav-item">
+                  <a class="smooth-scroll" href="http://jiahe.dev/#skills">Skills</a>
+                </li>
+              
+              
+                
+                
+                  
+                
+                <li class="nav-item">
+                  <a class="smooth-scroll" href="http://jiahe.dev/#projects">Projects</a>
+                </li>
+              
+              
+                
+                
+                  
+                
+                <li class="nav-item">
+                  <a class="smooth-scroll" href="http://jiahe.dev/#experiences">Experiences</a>
+                </li>
+              
+              
+                
+                
+                  
+                
+                <li class="nav-item">
+                  <a class="smooth-scroll" href="http://jiahe.dev/#education">Education</a>
+                </li>
+              
+          </ul>
+          
+        </div>
+        
+        
+        <div class="col-md-4 col-sm-12">
+          <h5>Contact me:</h5>
+          <ul>
+            
+            <li><span>Email: </span> <span>yi.jiahe00@gmail.com</span></li>
+            
+          </ul>
+        </div>
+        
+        
+        
+          
+          <div class="col-md-4 col-sm-12">
+            <p>Stay up to date with email notification</p>
+            
+              <form method='post' action='https://blogtrottr.com'>
+              <div class="form-group">
+              <input type='email' class="form-control" name='btr_email' placeholder="Enter email"/><br />
+              <input type='hidden' name='btr_url' value='http://jiahe.dev/index.xml' />
+              <input type='hidden' name='schedule_type' value='1' />
+              <small id="emailHelp" class="form-text text-muted">By entering your email address, you agree to receive the newsletter of this website.</small>
+              <button type="submit" class="btn btn-info"> Submit </button>
+              </form>
+            
+          </div>
+        
+      </div>
+    </div>
+    
+    
+    <hr />
+    <div class="container">
+      <div class="row text-left">
+        <div class="col-md-4">
+          <a id="theme" href="https://github.com/hossainemruz/toha" target="_blank" rel="noopener">
+            <img src="/images/theme-logo_hu8376fd15465fef26ffe66b6bcf0ca686_13669_32x0_resize_box_2.png" alt="Toha Theme Logo">
+            Toha
+          </a>
+        </div>
+        <div class="col-md-4 text-center">© 2021 Copyright.</div>
+        <div class="col-md-4 text-right">
+          <a id="hugo" href="https://gohugo.io/" target="_blank" rel="noopener">Powered by
+          <img
+            src="/images/hugo-logo.svg"
+            alt="Hugo Logo"
+            height="18"
+          />
+          </a>
+        </div>
+      </div>
+    </div>
+    
+  </footer>
+
+
+    <script type="text/javascript" src="/js/jquery-3.4.1.min.js"></script>
+<script type="text/javascript" src="/js/popper.min.js"></script>
+<script type="text/javascript" src="/js/bootstrap.min.js"></script>
+
+<script type="text/javascript" src="/js/navbar.js"></script>
+<script type="text/javascript" src="/js/plyr.js"></script>
+<script type="text/javascript" src="/js/main.js"></script>
+
+
+    
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js"></script>
+<script src="/js/single.js"></script>
+<script>
+  hljs.initHighlightingOnLoad();
+</script>
+
+
+  </body>
+</html>

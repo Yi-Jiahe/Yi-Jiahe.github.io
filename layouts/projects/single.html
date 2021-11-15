@@ -1,0 +1,65 @@
+{{ define "header" }}
+<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Title }}{{ end }}" />
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/atom-one-dark.min.css"
+/>
+
+<link rel="stylesheet" href="{{ "/css/projects/single.css" | relURL }}"/>
+<!--================= custom style overrides =========================-->
+<link rel="stylesheet" href="{{ "/css/style.css" | relURL }}"/>
+{{ end }}
+
+{{ define "navbar" }}
+    {{ partial "navigators/navbar-2.html" . }}
+{{ end }}
+
+{{ define "content" }}
+<section class="content-section" id="content-section">
+  <div class="content">
+    <div class="container p-0 read-area">
+      <!--Content Start-->
+      <div class="page-content">
+        <div class="title">
+          <h1>{{ .Page.Title }}</h1>
+        </div>
+        {{ if site.Params.enableTags }}
+        <div class="taxonomy-terms">
+            <ul>
+            {{ range .Params.tags }}
+            {{ $url:= printf "tags/%s" . }}
+            <li class="rounded"><a href="{{ $url | urlize | relLangURL }}" class="btn, btn-sm">{{ . }}</a></li>
+            {{ end }}
+          </ul>
+        </div>
+        {{ end }}
+        <div class="post-content" id="post-content">
+          {{ .Page.Content }}
+        </div>
+
+      <!---Next and Previous Navigator -->
+      <hr />
+        {{ partial "navigators/next-prev-navigator.html" . }}
+      <hr />
+
+      </div>
+    </div>
+  </div>
+  <!--scroll back to top-->
+  <a id="scroll-to-top" class="btn"><i class="fas fa-chevron-circle-up"></i></a>
+  {{ if .IsTranslated }}
+    {{ partial "navigators/floating-lang-selector.html" . }}
+  {{ end }}
+</section>
+{{ end }}
+
+{{ define "scripts" }}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js"></script>
+<script src="{{ "/js/single.js" | relURL }}"></script>
+<script>
+  hljs.initHighlightingOnLoad();
+</script>
+{{ if .Params.math }}
+    {{ partial "math.html" . }}
+{{ end }}
+{{ end }}

@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Technical portfolio</title>
+    <link>http://jiahe.dev/</link>
+    <description>Recent content on My Technical portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Jun 2010 08:06:25 +0600</lastBuildDate><atom:link href="http://jiahe.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resultados de Búsqueda</title>
+      <link>http://jiahe.dev/search/</link>
+      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
+      
+      <guid>http://jiahe.dev/search/</guid>
+      <description>Este archivo existe únicamente para responder a la URL /search con la plantilla de diseño search relacionada.
+No se muestra ningún contenido aquí, todo el contenido se basa en la plantilla layouts/page/search.html
+Establecer una prioridad muy baja en el mapa del sitio le dirá a los motores de búsqueda que éste no es un contenido importante.
+Esta implementación utiliza Fusejs, jquery y mark.js
+Configuración inicial La búsqueda depende del tipo de contenido de salida adicional de JSON en config.</description>
+    </item>
+    
+    <item>
+      <title>Resultados de Búsqueda</title>
+      <link>http://jiahe.dev/search/</link>
+      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
+      
+      <guid>http://jiahe.dev/search/</guid>
+      <description>Este archivo existe únicamente para responder a la URL /search con la plantilla de diseño search relacionada.
+No se muestra ningún contenido aquí, todo el contenido se basa en la plantilla layouts/page/search.html
+Establecer una prioridad muy baja en el mapa del sitio le dirá a los motores de búsqueda que éste no es un contenido importante.
+Esta implementación utiliza Fusejs, jquery y mark.js
+Configuración inicial La búsqueda depende del tipo de contenido de salida adicional de JSON en config.</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>http://jiahe.dev/search/</link>
+      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
+      
+      <guid>http://jiahe.dev/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>http://jiahe.dev/search/</link>
+      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
+      
+      <guid>http://jiahe.dev/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>http://jiahe.dev/search/</link>
+      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
+      
+      <guid>http://jiahe.dev/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>http://jiahe.dev/search/</link>
+      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
+      
+      <guid>http://jiahe.dev/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>http://jiahe.dev/search/</link>
+      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
+      
+      <guid>http://jiahe.dev/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>http://jiahe.dev/search/</link>
+      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
+      
+      <guid>http://jiahe.dev/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>http://jiahe.dev/search/</link>
+      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
+      
+      <guid>http://jiahe.dev/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>http://jiahe.dev/search/</link>
+      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
+      
+      <guid>http://jiahe.dev/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>http://jiahe.dev/search/</link>
+      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
+      
+      <guid>http://jiahe.dev/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>http://jiahe.dev/search/</link>
+      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
+      
+      <guid>http://jiahe.dev/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>http://jiahe.dev/search/</link>
+      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
+      
+      <guid>http://jiahe.dev/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>http://jiahe.dev/search/</link>
+      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
+      
+      <guid>http://jiahe.dev/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>http://jiahe.dev/search/</link>
+      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
+      
+      <guid>http://jiahe.dev/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>http://jiahe.dev/search/</link>
+      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
+      
+      <guid>http://jiahe.dev/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>http://jiahe.dev/search/</link>
+      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
+      
+      <guid>http://jiahe.dev/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>http://jiahe.dev/search/</link>
+      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
+      
+      <guid>http://jiahe.dev/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>http://jiahe.dev/search/</link>
+      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
+      
+      <guid>http://jiahe.dev/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>http://jiahe.dev/search/</link>
+      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
+      
+      <guid>http://jiahe.dev/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>http://jiahe.dev/search/</link>
+      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
+      
+      <guid>http://jiahe.dev/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>http://jiahe.dev/search/</link>
+      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
+      
+      <guid>http://jiahe.dev/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>http://jiahe.dev/search/</link>
+      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
+      
+      <guid>http://jiahe.dev/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+    </item>
+    
+    <item>
+      <title>অনুসন্ধানের ফলাফল</title>
+      <link>http://jiahe.dev/search/</link>
+      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
+      
+      <guid>http://jiahe.dev/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+    </item>
+    
+    <item>
+      <title>অনুসন্ধানের ফলাফল</title>
+      <link>http://jiahe.dev/search/</link>
+      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
+      
+      <guid>http://jiahe.dev/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://jiahe.dev/projects/bltcanalysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jiahe.dev/projects/bltcanalysis/</guid>
+      <description>GW2 Market Analysis GW2 Market Analysis is a server hosted webpage developed in Java with Spring Boot. The plots are made with Plotly.js with the time series data being scraped from the GW2 API twice daily by a systemd timer service.
+It offers information such as the buy price spread and a depth chart, together with historial data of price and supply demand fluctuations, allowing you to make informed investment decisions.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://jiahe.dev/projects/cs50ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jiahe.dev/projects/cs50ai/</guid>
+      <description>CS50 Introduction to Artificial Intelligence with Python I took an online course by Harvard which explored the concepts and algorithms at the foundation of modern artificial intelligence.
+The course featured a number of projects covering topics such as:
+ Utilizing search algorithms such as depth first search and breadth first search to solve basic problems and a minimax algorithm with alpha-beta pruning to play tic-tac-toe. Implementing logic to maintain a knowledge base to tackle logic problems and write a minesweeper AI.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://jiahe.dev/projects/cy1400/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jiahe.dev/projects/cy1400/</guid>
+      <description>Parameterization Study of The Efficiency of a Piezoelectric Flutter Based Harvester The aeroelastic phenomenon of flutter is an interesting one. Often undesirable as it results in material deformation and fatigue, sometimes even catastrophic failure, these same deformations are also indicative of work being done by the flow. Using piezoelectrics it is then possible that perhaps we could tap on this phenomenon as an alternative means of extracting flow energy.
+As a year one student however, flutter was something that was still beyond my understanding.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://jiahe.dev/projects/cy2001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jiahe.dev/projects/cy2001/</guid>
+      <description>Subjective Testing Of Parametrically-decoded First-Order Ambisonics In Cinematically-reproduced Virtual Reality In my second year at NTU, I secured a research attachment at the Digital Signal Processing Laboratory at NTU where they were researching the use of Virtual Reality technologies for use in soundscape design. In particular, the project I worked on focused on evaluating the suitability of various audio decoding methods for use with such technologies using subjective testing.
+During my time there I learnt about the motivations behind the project, and also picked up some technical skills.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://jiahe.dev/projects/deeparm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jiahe.dev/projects/deeparm/</guid>
+      <description>Inverse Kinematics solver using deep learning While exploring inverse kinematics for the control of robotic arms, I came across an article on MATLAB about using their adaptive neuro-fuzzy inference system (ANFIS) app to model a 2-joint robotic arm in a 2D space. The approach seemed like it could overcome the exponential increase in complexity with more complex systems, so I decided to give it a try using Tensorflow to train a model for the control of a 2-joint robotic arm in 3D space.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://jiahe.dev/projects/dronesimulator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jiahe.dev/projects/dronesimulator/</guid>
+      <description>Drone Simulator Orignally the project started out as a drone and physics simulator in Python. I started by simulating various aspects of a quadcopter, such as how an input voltage would drive the propellers, creating a thrust and torque, which would be applied to the quadcopter. To perform the simulation, I also had to write a physics simulation, building an update loop, gravity and ground collisions, alongside a visualisation and user interface.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://jiahe.dev/projects/eguitarmod/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jiahe.dev/projects/eguitarmod/</guid>
+      <description>Guitar Companion The guitar companion is a collection of tools written in Python, utilizing PortAudio which visualizes and transforms audio input. It is so named as many of the transformations are based off guitar effects, with the user interface built to look like a pedalboard. The system worked by taking the real time audio input from a microphone, which could also be the output of an electric guitar, and progressively altering the signal across a number of modular effects, before returning it to the speaker.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://jiahe.dev/projects/fyp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jiahe.dev/projects/fyp/</guid>
+      <description>Unique Flight Controller for a Multirotor For my Final Year Project (FYP) for my Aerospace Engineering degree with NTU, I designed and built a novel UAV concept for drone based delivery. The prototype I built for the project was able to perform a short hover with attitude control. While I am unable to share the details of the design at the current moment as the research is still ongoing, I shall share the work I did for the project.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://jiahe.dev/projects/handyumbrelladryer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jiahe.dev/projects/handyumbrelladryer/</guid>
+      <description>Handy Umbrella Dryer The Handy Umbrella Dryer was a product developed by my Engineering, Innovation and Design (EID) group for the module of the same name. It was a simple idea, but one with a potential that would see it outshine other more ambitious plans to emerge as a simple but well-received product at the showcase at the end of the module, seen in this picture of it and the team that designed it.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://jiahe.dev/projects/hoverfish/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jiahe.dev/projects/hoverfish/</guid>
+      <description>HoverFish HoverFish, see it in action here!, was a buoyancy based remote controlled drone powered by a Raspberry Pi Zero W+. It was a helium balloon propelled by a distinctive tail, making it move like a fish in the air, hence the name.
+In the summer of my first year at NTU, I enrolled in PS9888 Making and Tinkering, a special term module meant to provide students with the opportunity to solve open-ended real life problems.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://jiahe.dev/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jiahe.dev/projects/</guid>
+      <description>Who Am I? I am a software engineer with a Degree in Aerospace Engineering with a Specialization in Mechanical Engineering from NTU. I enjoy projects ranging from webdev to building drones.
+Projects Unique Flight Controller for Multirotor drones My Final Year Project for my Aerospace Engineering degree in which I designed an implemented unique flight controller on a UAV whose parts I designed and 3D printed.
+HoverFish An award winning remote-controlled balloon drone designed and built for PS9888 Making and Tinkering, a special term module held at NTU.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://jiahe.dev/projects/mealdiary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jiahe.dev/projects/mealdiary/</guid>
+      <description>Meal Diary Meal Diary is an app meant to help users keep track of their diet in order to assist them in eating healthier. It seeks to do so by simplifying the process of recording one&amp;rsquo;s meals, encouraging awareness over counting calories by making creating a new entry as easy as simply taking a picture of your meal.
+While this was not technically my first foray into app development for I had created a simple web app a number of years earlier, it was my first time writing an app specifically for android in Kotlin.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://jiahe.dev/projects/soundsite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jiahe.dev/projects/soundsite/</guid>
+      <description>Sound Site Sound Site is a single page React app built with React Flow. React was chosen to give the app interactivity, allowing users to &amp;ldquo;touch sound&amp;rdquo;, while React Flow was chosen as it was feature rich package, perfect for visualizing and controlling the Audio Graph.
+One of the key features of Sound Site is the Analysis node, which allows users to see sound. This feature was built upon from an earlier attempt in which I was experimenting with the Web Audio API to see what it could do.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://jiahe.dev/projects/spotit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jiahe.dev/projects/spotit/</guid>
+      <description>Motion Based Multiple Object Tracking During the summer of my 3rd year, I did an internship with Temasek Laboratories at NUS. During my internship, I worked on developing an algorithm to detect and track mulitple moving objects in a scene, and return their 3D positions in real time.
+My first task during the internship was to implement an algorithm tested in MATLAB into Python. To do so, I made use of the OpenCV library and got to know the functionality it provided in terms of image and video processing and methods for extracting useful information from images and videos.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://jiahe.dev/projects/virtualface/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jiahe.dev/projects/virtualface/</guid>
+      <description>Virtual Face With the increased interest in VR and computer vision leading to a boom in popularity for face tracking applications and promising solutions, I decided to try my hand at it to figure out how such a solution might work.
+Virtual Face is a combination of a Computer Vision face and body tracking solution using Google&amp;rsquo;s MediaPipe library, and a renderer which makes use of the tracking data, built in Unity.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://jiahe.dev/projects/votingsite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jiahe.dev/projects/votingsite/</guid>
+      <description>CN Yang Executive Committee Voting Site In my second year of university, I was commissioned to develop an online voting system for the CN Yang Scholars Club, which would allow them to move away from physical ballots to an electronic voting system. The system was developed to cut down on the paper used for the physical ballots, as well as reduce the logistics involved. The electronic voting system would also allow year 3 and 4 scholars on their overseas exchange and final year projects to have a say.</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>http://jiahe.dev/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jiahe.dev/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+    </item>
+    
+  </channel>
+</rss>
