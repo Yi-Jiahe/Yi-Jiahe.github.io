@@ -1,0 +1,11 @@
+.wrapper {
+  display: flex;
+  justify-content: space-around;
+}
+
+.page-content {
+  background-color: #f9fafc;
+  padding: 30px;
+  padding-top: 60px;
+  text-align: justify;
+}
